@@ -1,3 +1,6 @@
+#ifndef __CMYTIMER_H__
+#define __CMYTIMER_H__
+
 #pragma once
 #include <string>
 #include "list"
@@ -59,3 +62,5 @@ private:
 
 };
 /*********************************************************************/
+
+#endif  //__CMYTIMER_H__
